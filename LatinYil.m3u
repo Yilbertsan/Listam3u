@@ -1,5 +1,5 @@
-# Listam3u
-#EXTM3U url-tvg=""
+
+#EXTM3U
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MyC- DISCOVERY EN ESPAÑOL" tvg-logo="http://descargas.podzone.net/logos/-discovery-en-espanol.png" group-title="• MUNDO Y CULTURA",MyC- DISCOVERY EN ESPAÑOL
 http://tv.nousiptv.com:8080/live/gabpereira/20012020/56304.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MYC - DISCOVERY CHANNEL FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="• MUNDO Y CULTURA",MYC - DISCOVERY CHANNEL FHD
